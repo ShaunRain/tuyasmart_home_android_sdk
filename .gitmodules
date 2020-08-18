@@ -1,0 +1,3 @@
+[submodule "gateway_demo"]
+	path = gateway_demo
+	url = https://code.registry.wgine.com/android_device/gateway_demo
